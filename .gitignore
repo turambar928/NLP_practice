@@ -30,3 +30,7 @@ book.epub
 book.mobi
 
 .idea
+
+
+/.venv/
+
